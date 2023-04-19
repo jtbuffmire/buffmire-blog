@@ -1,13 +1,13 @@
 # 
-theme                    : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" #"sunrise" , "default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
 
 # Site settings
 locale                   : "en-US"
 title                    : "Buffmire Blog"
 title_separator          : "|"
-subtitle                 : Stories of doing.
+subtitle                 : "Stories of doing."
 name                     : "Jameson Buffmire"
 description              : "I do stuff and occasionally I write."
 url                      : "blog.buffmire.com"
@@ -20,7 +20,7 @@ twitter_username         : jtbuffmire
 github_username          : jtbuffmire
 
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+# words_per_minute         : 200
 
 
 # Build settings
